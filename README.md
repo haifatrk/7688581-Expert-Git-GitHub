@@ -12,7 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 prérequis 1: installation d'un IDE
-
+prérequis 2: installer la tool-chain
 ```
 
 ### Installation
